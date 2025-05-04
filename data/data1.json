@@ -1,9 +1,11 @@
-{
-        "id": 3,
-        "image": "https://jioneproferssor.store/img/flower4.jpg",
-        "likes": 15,
-        "date": "Nov 21",
-        "content": "가을이 가네요",
-        "liked": false,
-        "user": "Henry"
-}
+[
+        {
+                "id": 3,
+                "image": "https://jioneproferssor.store/img/flower4.jpg",
+                "likes": 15,
+                "date": "Nov 21",
+                "content": "가을이 가네요",
+                "liked": false,
+                "user": "Henry"
+        }
+]
