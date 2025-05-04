@@ -1,0 +1,9 @@
+{
+        "id": 4,
+        "image": "https://jioneproferssor.store/img/flower5.jpg",
+        "likes": 7,
+        "date": "Dec 10",
+        "content": "겨울이 성큼",
+        "liked": false,
+        "user": "Emma"
+}
