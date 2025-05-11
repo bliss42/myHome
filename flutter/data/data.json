@@ -1,7 +1,7 @@
 [
     {
         "id": 0,
-        "image": "https://jioneproferssor.store/img/flower1.jpg",
+        "image": "https://jioneproferssor.store/flutter/img/flower1.jpg",
         "likes": 5,
         "date": "May 25",
         "content": "봄이 왔어요",
@@ -10,7 +10,7 @@
     },
     {
         "id": 1,
-        "image": "https://jioneproferssor.store/img/flower2.jpg",
+        "image": "https://jioneproferssor.store/flutter/img/flower2.jpg",
         "likes": 22,
         "date": "June 3",
         "content": "이제 여름이 다가옵니다",
@@ -19,7 +19,7 @@
     },
     {
         "id": 2,
-        "image": "https://jioneproferssor.store/img/flower3.jpg",
+        "image": "https://jioneproferssor.store/flutter/img/flower3.jpg",
         "likes": 10,
         "date": "Oct 30",
         "content": "어린날의 추억",
