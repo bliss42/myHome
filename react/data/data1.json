@@ -1,0 +1,22 @@
+[
+    {
+      "id" : 4,
+      "title" : "pants",
+      "content" : "Made in the States",
+      "price" : 35000
+    },
+  
+    {
+      "id" : 5,
+      "title" : "pants",
+      "content" : "Made in Seoul",
+      "price" : 50000
+    },
+  
+    {
+      "id" : 6,
+      "title" : "set",
+      "content" : "Made in France",
+      "price" : 70000
+    }
+]
