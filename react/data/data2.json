@@ -1,22 +1,22 @@
 [
     {
-      "id" : 7,
-      "title" : "jacket",
+      "id" : 4,
+      "title" : "pants",
       "content" : "Made in the States",
-      "price" : 40000
+      "price" : 35000
     },
   
     {
-      "id" : 8,
-      "title" : "jacket",
+      "id" : 5,
+      "title" : "pants",
       "content" : "Made in Seoul",
-      "price" : 47000
+      "price" : 50000
     },
   
     {
-      "id" : 9,
-      "title" : "jacket",
+      "id" : 6,
+      "title" : "set",
       "content" : "Made in France",
-      "price" : 55000
+      "price" : 70000
     }
 ]
